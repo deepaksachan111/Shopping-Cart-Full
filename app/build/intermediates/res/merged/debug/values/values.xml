@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/QServer/Downloads/Shopping-Cart-Tutorial-part-2-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Shopping Cart Tutorial Part 2</string>
+    <string name="hello">Hello World, MainActivity!</string>
+</resources>
